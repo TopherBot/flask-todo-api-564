@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Distribution / packaging
+build/
+*.egg-info/
+.dist/
+
+# Pytest cache
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+# Docker
+Dockerfile
+.dockerignore
+
+# IDE / editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
